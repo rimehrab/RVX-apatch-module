@@ -1,6 +1,6 @@
 {
-  "version": "v7.16.53 (20220969)",
-  "versionCode": 20220969,
-  "zipUrl": "https://github.com/j-hc/revanced-magisk-module/releases/download/20220969/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
-  "changelog": "https://raw.githubusercontent.com/j-hc/revanced-magisk-module/update/build.md"
+  "version": "v7.16.53 (1)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/rimehrab/RVX-apatch-module/releases/download/1/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
+  "changelog": "https://raw.githubusercontent.com/rimehrab/RVX-apatch-module/update/build.md"
 }
